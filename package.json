@@ -1,0 +1,22 @@
+{
+  "name": "tampermonkey4good",
+  "version": "1.0.0",
+  "description": "自用油猴，和谐友善！",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Observer-L/TamperMonkey4Good.git"
+  },
+  "keywords": [
+    "油猴脚本"
+  ],
+  "author": "Observer-L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Observer-L/TamperMonkey4Good/issues"
+  },
+  "homepage": "https://github.com/Observer-L/TamperMonkey4Good#readme"
+}
